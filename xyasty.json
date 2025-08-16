@@ -2,7 +2,7 @@
   "channels": [
     { "id": 1, "name": "Canal 1", "url": "
 https://live-sa.streann.tech/live_abr/panam10/live/panam10_480p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODlhNTNhMmU0YjBmMWNhZGVkODkzNzAiLCJleHAiOjE3NTUzNzIzNjEsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGQ0ZGU0YjA5YjhmNDA0ZTJmN2EifQ.6yiW2XPm5iqEnCLvuF09bXQg9bMzWTEjp_5xBxtz_OM" },
-    { "id": 2, "name": "Canal 2", "url": "https://link2.m3u8" },
+    { "id": 2, "name": "Canal 2", "url": "https://live-sa.streann.tech/live_abr/panam8/live/panam8_720p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODlhNTNhMmU0YjBmMWNhZGVkODkzNzAiLCJleHAiOjE3NTUzNzI2OTgsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNlMmU0YjA5YjhmNDA0ZTJmNzEifQ.d8n5wnyDucXzpAT1eP-6V3xmbxi9s50-fytZBB97wWo" },
     { "id": 3, "name": "Canal 3", "url": "https://link3.m3u8" }
   ]
 }
