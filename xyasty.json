@@ -1,7 +1,7 @@
 {
   "channels": [
     { "id": 1, "name": "Canal 1", "url": "
-https://tvpass.org/live/ESPN/sd" },
+https://v4.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=1BtkP0PSFSa1VGTZLiI2fw&expires=1755826624&user_id=MzguMjUzLjE0OS4yOQ==" },
     { "id": 2, "name": "Canal 2", "url": "https://live-sa.streann.tech/live_abr/panam8/live/panam8_720p/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2ODlhNTNhMmU0YjBmMWNhZGVkODkzNzAiLCJleHAiOjE3NTUzNzI2OTgsInJpZCI6IjVmYzAxMzIxZTRiMDYxMmY3ODZiMzFjMSIsImtleSI6ImtleTEiLCJjaWQiOiI2NGFkNGNlMmU0YjA5YjhmNDA0ZTJmNzEifQ.d8n5wnyDucXzpAT1eP-6V3xmbxi9s50-fytZBB97wWo" },
     { "id": 3, "name": "Canal 3", "url": "https://vod3.cf.dmcdn.net/sec2(jROk0BH5jAm-Hmz6HM3RG9wEWwMPg6cWidgp2iMtdT_C8_whaG_UxNeYbjqfRI9WO6HulfO9aL9hH9kPh11mm2qHYgdjtWiiGucevHnlUuJQBSpu_utgU6lFM-n7LS2cafUb3gUBlFUHGoWpbQoeIC2x3L2U-ETieNMCbPNJbPR3LusOieissN-WDqs81zQH)/video/099/099/584990990_mp4_h264_aac_hq_vert_1.m3u8" },
     { "id": 4, "name": "Una noche…Por Siempre", "url": "https://vod3.cf.dmcdn.net/sec2(jROk0BH5jAm-Hmz6HM3RG9wEWwMPg6cWidgp2iMtdT_C8_whaG_UxNeYbjqfRI9WO6HulfO9aL9hH9kPh11mm2qHYgdjtWiiGucevHnlUuJQBSpu_utgU6lFM-n7LS2cafUb3gUBlFUHGoWpbQoeIC2x3L2U-ETieNMCbPNJbPR3LusOieissN-WDqs81zQH)/video/099/099/584990990_mp4_h264_aac_hq_vert_1.m3u8" },
