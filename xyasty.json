@@ -4,7 +4,7 @@
     { "id": 2, "name": "Canal 2", "url": "https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b2163843648168cb321362a06&sid=ba5t1l1xb2175507355668cb3213bb586&ndvc=0" },
     { "id": 3, "name": "alianza vs u chile", "url": "https://8c51.crackstreamslivehd.com/global/espn2/index.m3u8?token=e2da747804703a47dd002fe0436d8e601c886d51-3e-1758890828-1758836828&ip=38.253.149.29" },
     { "id": 4, "name": "alianza 2", "url": "https://57b1.crackstreamslivehd.com/espn2/tracks-v1a1/mono.m3u8?ip=38.253.149.29&token=3cb232b5209f45c6f9f30ee7a7c8df96b0d0a7b2-86-1758890962-1758836962" },
-    { "id": 5, "name": "El Dulce Sabor Del Triunfo", "url": "https://vod3.cf.dmcdn.net/sec2(Byu_lcHFF3mswOwuugbkayVxbVX-V-qVAwHPWkWc-hzm9x8frFsMAJu9z5cGXrOm0gqrLHj8YHEAlfQfKt12-7cgPcJezMAAVoakFCw7nGUR5teTLMcsxtM4DkU26BRaDqxuXgLwQHXk97jRXXeXXkpc6mhHTNHqcuYM1kncMBS25x3v-aip2LxN0xQGmMS2)/video/fmp4/585168936/h264_aac_vert/1/manifest.m3u8" },
+    { "id": 5, "name": "prueba 1", "url": "https://doc1.crackstreamslivehd.com/espn2/tracks-v1a1/2025/09/26/01/09/13-05606.ts?token=90a1c89e414bf9d1816da15d84b39d84e3722dc0-cd-1758893940-1758839940" },
     { "id": 6, "name": "Ejemplo de boton", "url": "" }
   ]
 }
